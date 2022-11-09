@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill 1>Basic theory</skill 1>
+	<skill 2>Client server architecture</skill 2>
+	<skill 3>HTTP/HTTPS method, request, response</skill 3>
+	<skill 4>JSON, XML</skill 4>
+	<skill 5>Postman</skill 5>
+	<skill 6>Charles</skill 6>
+	<skill 7>Fiddler</skill 7>
+	<skill 8>DevTools</skill 8>
+	<skill 9>Terminal Gitbash</skill 9>
+	<skill 10>Basic SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill 10>
+	<skill 11>PostgreSQL</skill 11>
+</root>

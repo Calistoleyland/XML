@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>Diana</name>
+	<middlename>Dmitrievna</middlename> 
+   	<surname>Masliy</surname>
+   	<age>25</age>
+   	<pets>3</pets>
+   	<salary>1000</salary>
+</root>
